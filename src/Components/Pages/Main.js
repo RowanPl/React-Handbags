@@ -25,6 +25,7 @@ function Main(){
                         text={"pre-Orders"}
                         onClick={() => (console.log("pre-Orders"))}>
                     pre-Orders
+
                 </Button>
             </nav>
   <main>
